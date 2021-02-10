@@ -1,2 +1,2 @@
-Good Night 
+Welcome to the Devops training 
 Hello This is a first demo lecture
