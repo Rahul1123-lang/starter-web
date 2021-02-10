@@ -1,5 +1,5 @@
 # Starter Web Repo
-This is GitHub training
+This is REBASE SESSION
 This another change in Readme master branch
 This repository is for showing how Git and GitHub work
 
