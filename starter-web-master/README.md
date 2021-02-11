@@ -1,4 +1,6 @@
 # Starter Web Repo
+
+This is a Devops session
 No statment is allowed
 Hello Welocme to the Devops session
 This is REBASE SESSION
