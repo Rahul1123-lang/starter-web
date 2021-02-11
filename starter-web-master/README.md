@@ -1,6 +1,7 @@
 # Starter Web Repo
 
 This is a Devops session
+Final changes in READMD file 
 No statment is allowed
 Hello Welocme to the Devops session
 This is REBASE SESSION
